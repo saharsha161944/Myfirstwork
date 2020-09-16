@@ -2,3 +2,8 @@ gate
 deep learn
 epam
 ib
+
+
+
+
+thankyou
